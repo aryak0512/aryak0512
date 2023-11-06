@@ -1,6 +1,6 @@
 
 
-Software engineer with a passion for the Java ecosystem. My areas of expertise are Core Java, Spring, Spring Boot, Cloud and Linux.
+Software engineer with a passion for the Java ecosystem. My areas of expertise are Core Java, Data structures Cloud and Linux.
 
 I am interested in anything and everything related to Software Development.
 
