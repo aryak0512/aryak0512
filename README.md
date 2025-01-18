@@ -1,7 +1,7 @@
 
-I am interested in anything and everything related to Software Development.
+Hobbyist software developer interested in anything & everything related to Software Development.
 
-Passionate software enthusiast interested in building scalable & efficient software with strong customer focus. Experience working in large scale distributed systems, REST and object oriented programming.
+Passionate guy interested in building scalable & efficient software with strong customer focus. Experience working in large scale distributed systems.
 
 - 🌱 Oracle Certified Java SE 8 Programmer
 - 🌱 AWS Certified Cloud Practitioner
